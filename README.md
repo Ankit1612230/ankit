@@ -1,4 +1,4 @@
 # ankit
 this is my first github repository
 <br>
-author-Ankit Pokhariya
+author-Ankit Pokhariya is a brilliant
